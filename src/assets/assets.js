@@ -39,7 +39,7 @@ import concert from "./ServicesPhotos/Concert.png";
 import itEvents from "./ServicesPhotos/itEvents.png";
 import cultural from "./ServicesPhotos/cultural.jpeg";
 import birthdays from "./ServicesPhotos/Birthdays.png";
-import sareeDhoti from "./ServicesPhotos/saree-dhoti.png";
+import sareeDhoti from "./ServicesPhotos/Saree-Dhoti.png";
 import studioPortraits from "./ServicesPhotos/Studio-Portraits.png";
 
 
