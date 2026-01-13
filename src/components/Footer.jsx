@@ -5,10 +5,11 @@ import {
   FaLinkedinIn,
   FaFacebookF,
   FaGithub,
+  FaHeart as Heart,
 } from "react-icons/fa";
 import { SiThreads } from "react-icons/si";
 // import hrudaylogo from '../assets/hrudaylogo.png';
-import { Heart } from "lucide-react";
+// import { Heart } from "lucide-react";
 import logo from '../assets/logo.png';
 import { motion } from "motion/react";
 
